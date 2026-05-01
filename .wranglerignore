@@ -1,1 +1,20 @@
+# OS junk
 .DS_Store
+Thumbs.db
+
+# Git stuff
+.git/
+.gitignore
+
+# Dev / node stuff
+node_modules/
+npm-debug.log*
+
+# Heavy / build artifacts
+*.pack
+*.psd
+*.ai
+*.blend
+
+# Optional: local dev files
+.env
